@@ -1,6 +1,3 @@
-# TCP-G2M
-TCP-G2M: Teacher-Calibrated and Conflict-Aware GNN-to-MLP Distillation for Heterophilic Graphs
-
 # Anonymous Reviewer Release
 This paper has subbmited Pattern Recognition.
 It is intended to let reviewers run the main training pipeline without exposing the full internal experiment management code, exhaustive hyperparameter sweep files, logs, checkpoints, or exploratory variants.
